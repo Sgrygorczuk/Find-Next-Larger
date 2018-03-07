@@ -9,6 +9,3 @@ is C or C++; test your code before submission using the gcc or g++ compiler. Ple
 remove all dead code; try to program as clearly as possible, since I try to read it. Do not
 copy code from another student or from the web; this is an easy project, and must be all
 your own work.
-Submit your source code by e-mail to phjmbrass@gmail.com; include the course
-(220) and homework number in the subject line, and your name as a comment in the
-homework file.
